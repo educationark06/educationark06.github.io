@@ -1,0 +1,1817 @@
+/* screen - about-us */
+
+.about-us {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 8329px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.about-us .overlap-group14 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  display: flex;
+  height: 45px;
+  margin-top: -4px;
+  min-width: 1920px;
+  padding: 0 62px;
+}
+
+.about-us .have-any-questions {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  min-height: 22px;
+  min-width: 195px;
+}
+
+.about-us .email {
+  height: 25px;
+  margin-left: 34px;
+  width: 25px;
+}
+
+.about-us .infouecampuscom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 10px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.about-us .phone {
+  height: 25px;
+  margin-left: 21px;
+  width: 25px;
+}
+
+.about-us .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 11px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.about-us .navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  margin-top: 5px;
+  min-width: 1796px;
+}
+
+.about-us .navbar-link-programs {
+  min-width: 92px;
+}
+
+.about-us .sort-left {
+  height: 15px;
+  margin-left: 6px;
+  margin-top: 1.69px;
+  width: 15px;
+}
+
+.about-us .navbar-link-diplomas {
+  margin-left: 33px;
+  min-width: 90px;
+}
+
+.about-us .navbar-link-about-us {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  margin-left: 38px;
+  min-height: 22px;
+  min-width: 88px;
+}
+
+.about-us .navbar-link-scholarships {
+  margin-left: 38px;
+  min-width: 121px;
+}
+
+.about-us .x1-9d8512e0-removebg-preview-1 {
+  margin-left: 245px;
+}
+
+.about-us .navbar-link-login {
+  margin-left: 561px;
+  min-width: 54px;
+}
+
+.about-us .overlap-group19 {
+  align-items: flex-start;
+  background-color: var(--bright-gray);
+  border-radius: 10px;
+  display: flex;
+  height: 49px;
+  margin-left: 33px;
+  margin-top: 1.69px;
+  min-width: 160px;
+  padding: 12px 40px;
+}
+
+.about-us .place {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.about-us .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 184px;
+  margin-right: -1602px;
+  margin-top: 4px;
+  min-height: 8196px;
+  width: 3786px;
+}
+
+.about-us .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 97px;
+  height: 1322px;
+  margin-left: 264px;
+  min-width: 2507px;
+}
+
+.about-us .flex-col-1 {
+  align-items: center;
+  gap: 53px;
+  min-height: 1322px;
+  width: 1920px;
+}
+
+.about-us .flex-col-2 {
+  align-items: center;
+  min-height: 641px;
+  width: 1920px;
+}
+
+.about-us .rectangle-6 {
+  background-color: var(--royal-purple);
+  height: 3px;
+  width: 1920px;
+}
+
+.about-us .overlap-group16 {
+  align-items: flex-end;
+  background-image: url(../img/group-452.png);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 389px;
+  padding: 71px 505px;
+  width: 1920px;
+}
+
+.about-us .about-us-1 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 121.5px;
+  margin-top: 62px;
+  min-height: 122px;
+  text-align: center;
+  width: 586px;
+}
+
+.about-us .we-empower-learners {
+  color: var(--hint-of-red-2);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 63px;
+  text-align: center;
+  width: 909px;
+}
+
+.about-us .unlock-the-power-of {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 58px;
+  min-height: 191px;
+  width: 1727px;
+}
+
+.about-us .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 50px;
+  height: 628px;
+  margin-right: 59.0px;
+  min-width: 1713px;
+}
+
+.about-us .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 628px;
+  width: 663px;
+}
+
+.about-us .overlap-group9 {
+  background-color: #f2f2f2bf;
+  border-radius: 50px;
+  height: 185px;
+  position: relative;
+  width: 423px;
+}
+
+.about-us .x36-total-programs {
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+}
+
+.about-us .rectangle-94 {
+  background-color: var(--white);
+  height: 9px;
+  left: 57px;
+  position: absolute;
+  top: 96px;
+  width: 29px;
+}
+
+.about-us .overlap-group12 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--concrete);
+  border-radius: 50px;
+  display: flex;
+  height: 185px;
+  margin-right: 56.0px;
+  margin-top: 32px;
+  min-width: 429px;
+  padding: 29px 30px;
+}
+
+.about-us .x495-average-course-rating {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 116px;
+}
+
+.about-us .overlap-group6 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: #f2f2f2ed;
+  border-radius: 50px;
+  display: flex;
+  height: 185px;
+  margin-top: 41px;
+  min-width: 423px;
+  padding: 33px 53px;
+}
+
+.about-us .x2k-active-students {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 116px;
+}
+
+.about-us .image-10 {
+  height: 623px;
+  object-fit: cover;
+  width: 1000px;
+}
+
+.about-us .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  margin-bottom: 42px;
+  min-height: 673px;
+  width: 490px;
+}
+
+.about-us .group-372 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  height: 457px;
+  width: 490px;
+}
+
+.about-us .group-337 {
+  height: 238px;
+  margin-left: 913px;
+  margin-top: 7704px;
+  width: 464px;
+}
+
+.about-us .group-373 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 8.0px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.about-us .overlap-group {
+  height: 53px;
+  position: relative;
+  width: 275px;
+}
+
+.about-us .name {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.about-us .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 194px;
+  min-width: 464px;
+}
+
+.about-us .overlap-group-1 {
+  align-items: center;
+  background-color: var(--hint-of-red);
+  display: flex;
+  height: 38px;
+  min-width: 38px;
+  padding: 0 8px;
+}
+
+.about-us .flex-col-3 {
+  align-items: flex-start;
+  min-height: 6690px;
+  width: 3786px;
+}
+
+.about-us .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--bright-gray);
+  display: flex;
+  gap: 146px;
+  justify-content: flex-end;
+  margin-left: 250px;
+  min-width: 1934px;
+}
+
+.about-us .flex-col-4 {
+  align-items: flex-start;
+  margin-bottom: 27.7px;
+  min-height: 705px;
+  width: 933px;
+}
+
+.about-us .who-we-are {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 130px;
+  width: 511px;
+}
+
+.about-us .turn-work-experience {
+  align-self: flex-end;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 575px;
+  width: 917px;
+}
+
+.about-us .span0 {
+  font-style: italic;
+  font-weight: 700;
+}
+
+.about-us .rectangle-25 {
+  height: 862px;
+  object-fit: cover;
+  width: 733px;
+}
+
+.about-us .our-core-values {
+  align-self: center;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: 88px;
+  font-weight: 700;
+  height: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1237.0px;
+  margin-top: 133px;
+  text-align: center;
+  width: 851px;
+}
+
+.about-us .span0-1 {
+  color: var(--bright-gray);
+}
+
+.about-us .span1 {
+  color: var(--gigas);
+}
+
+.about-us .overlap-group-container-1 {
+  margin-left: 295px;
+  margin-top: 33px;
+  min-width: 1858px;
+}
+
+.about-us .overlap-group1 {
+  align-items: center;
+  background-color: var(--gigas-2);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  min-height: 374px;
+  padding: 47px 0;
+  width: 581px;
+}
+
+.about-us .frame-14 {
+  background-color: var(--white);
+  border-radius: 100px;
+  display: flex;
+  height: 57px;
+  margin-right: 1.0px;
+  margin-top: 13px;
+  overflow: hidden;
+  width: 64px;
+}
+
+.about-us .image {
+  height: 32.53px;
+  margin-left: 15px;
+  margin-top: 12px;
+  object-fit: cover;
+  width: 34px;
+}
+
+.about-us .variety {
+  height: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 21px;
+  text-align: center;
+  width: 175px;
+}
+
+.about-us .this-ensures-you-can {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 11px;
+  min-height: 108px;
+  text-align: center;
+  width: 473px;
+}
+
+.about-us .overlap-group13 {
+  align-items: center;
+  background-color: var(--gigas-2);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 57px;
+  min-height: 374px;
+  padding: 47px 41px;
+  width: 581px;
+}
+
+.about-us .quality-education {
+  height: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 21px;
+  text-align: center;
+  width: 436px;
+}
+
+.about-us .our-programs-are-des {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 11px;
+  min-height: 108px;
+  text-align: center;
+  width: 498px;
+}
+
+.about-us .overlap-group7 {
+  align-items: center;
+  background-color: var(--gigas-2);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 58px;
+  min-height: 374px;
+  padding: 47px 0;
+  width: 581px;
+}
+
+.about-us .expert-instructors {
+  height: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 21px;
+  text-align: center;
+  width: 448px;
+}
+
+.about-us .learn-from-industry {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 11px;
+  min-height: 108px;
+  text-align: center;
+  width: 473px;
+}
+
+.about-us .overlap-group-container-2 {
+  gap: 74px;
+  margin-left: 568px;
+  margin-top: 67px;
+  min-width: 1236px;
+}
+
+.about-us .flexible-learning {
+  height: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 11.0px;
+  margin-top: 21px;
+  text-align: center;
+  width: 348px;
+}
+
+.about-us .adapts-to-your-sched {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 11px;
+  min-height: 108px;
+  text-align: center;
+  width: 473px;
+}
+
+.about-us .overlap-group17 {
+  align-items: center;
+  background-color: var(--gigas-2);
+  border-radius: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+  min-height: 374px;
+  padding: 47px 0;
+  width: 581px;
+}
+
+.about-us .overlap-group25 {
+  height: 154px;
+  position: relative;
+  width: 473px;
+}
+
+.about-us .affordable-programs {
+  height: 59px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 468px;
+}
+
+.about-us .offer-cost-effective {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 473px;
+}
+
+.about-us .group-container-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 261px;
+  min-width: 3786px;
+}
+
+.about-us .overlap-group11 {
+  height: 1190px;
+  position: relative;
+  width: 2660px;
+}
+
+.about-us .rectangle-42 {
+  background-color: #eceef078;
+  height: 1190px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2161px;
+}
+
+.about-us .image-12 {
+  height: 928px;
+  left: 302px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 906px;
+}
+
+.about-us .image-18 {
+  height: 100px;
+  left: 1266px;
+  object-fit: cover;
+  position: absolute;
+  top: 689px;
+  width: 100px;
+}
+
+.about-us .image-19 {
+  height: 90px;
+  left: 1769px;
+  object-fit: cover;
+  position: absolute;
+  top: 703px;
+  width: 90px;
+}
+
+.about-us .image-20 {
+  height: 100px;
+  left: 1261px;
+  object-fit: cover;
+  position: absolute;
+  top: 804px;
+  width: 100px;
+}
+
+.about-us .image-22 {
+  height: 110px;
+  left: 1261px;
+  object-fit: cover;
+  position: absolute;
+  top: 926px;
+  width: 110px;
+}
+
+.about-us .image-21 {
+  height: 100px;
+  left: 1764px;
+  object-fit: cover;
+  position: absolute;
+  top: 804px;
+  width: 100px;
+}
+
+.about-us .offering-an-extensiv {
+  left: 1261px;
+  letter-spacing: 0;
+  line-height: 55px;
+  position: absolute;
+  top: 431px;
+  width: 839px;
+}
+
+.about-us .experienced-educators {
+  left: 1378px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 688px;
+  white-space: nowrap;
+  width: 356px;
+}
+
+.about-us .passionate-mentors {
+  left: 1389px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 788px;
+  white-space: nowrap;
+  width: 275px;
+}
+
+.about-us .programming-for-classes {
+  left: 1378px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 925px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.about-us .industry-professionals {
+  left: 1881px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 685px;
+  white-space: nowrap;
+  width: 779px;
+}
+
+.about-us .everywhere-access {
+  left: 1859px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 803px;
+  white-space: nowrap;
+  width: 779px;
+}
+
+.about-us .x35000happy-studen {
+  color: transparent;
+  font-family: var(--font-family-montserrat);
+  font-size: 48px;
+  font-weight: 400;
+  left: 1256px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 245px;
+  width: 1107px;
+}
+
+.about-us .group-357 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 427px;
+  height: 457px;
+  margin-bottom: 121px;
+  margin-left: 116px;
+  width: 490px;
+}
+
+.about-us .group-354 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-left: 14px;
+  margin-top: 267px;
+  min-height: 171px;
+  width: 472px;
+}
+
+.about-us .group-33 {
+  height: 238px;
+  margin-top: 7704px;
+  width: 464px;
+}
+
+.about-us .group-358 {
+  background-color: var(--white);
+  border-radius: 14px;
+  box-shadow: 0px 4px 25px #0000001a;
+  display: flex;
+  gap: 428px;
+  height: 457px;
+  margin-bottom: 121px;
+  margin-left: 30px;
+  width: 490px;
+}
+
+.about-us .meet-our-team {
+  align-self: center;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: 88px;
+  font-weight: 700;
+  height: 113px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1209.0px;
+  margin-top: 90px;
+  text-align: center;
+  width: 851px;
+}
+
+.about-us .span0-2 {
+  color: var(--big-stone);
+}
+
+.about-us .screenbud-8dbf09eb-9 {
+  height: 744px;
+  margin-left: 349px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 1835px;
+}
+
+.about-us .overlap-group8 {
+  background-color: var(--royal-purple);
+  height: 808px;
+  margin-left: 129px;
+  margin-top: 114px;
+  position: relative;
+  width: 2161px;
+}
+
+.about-us .rectangle-37 {
+  background-color: var(--alto-2);
+  border-radius: 50px;
+  height: 589px;
+  left: 171px;
+  position: absolute;
+  top: 120px;
+  width: 1012px;
+}
+
+.about-us .have-any-questions-1 {
+  left: 247px;
+  letter-spacing: 0.96px;
+  line-height: 80.4px;
+  position: absolute;
+  top: 172px;
+  white-space: nowrap;
+  width: 610px;
+}
+
+.about-us .visit-our-faq-page-o {
+  color: #5e3683;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  left: 247px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 274px;
+  width: 702px;
+}
+
+.about-us .overlap-group5 {
+  align-items: center;
+  background-color: var(--gigas);
+  border-radius: 22px;
+  display: flex;
+  height: 77px;
+  justify-content: flex-end;
+  left: 834px;
+  min-width: 230px;
+  position: absolute;
+  top: 536px;
+}
+
+.about-us .contact-us {
+  letter-spacing: 0.64px;
+  line-height: normal;
+  min-height: 41px;
+  width: 206px;
+}
+
+.about-us .whats-app {
+  height: 66px;
+  left: 235px;
+  position: absolute;
+  top: 347px;
+  width: 86px;
+}
+
+.about-us .envelope {
+  height: 56px;
+  left: 235px;
+  position: absolute;
+  top: 455px;
+  width: 98px;
+}
+
+.about-us .call {
+  height: 62px;
+  left: 241px;
+  position: absolute;
+  top: 549px;
+  width: 75px;
+}
+
+.about-us .message-us-on-whats-app-now {
+  left: 333px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 362px;
+  width: 384px;
+}
+
+.about-us .infouecampuscom-1 {
+  left: 337px;
+  position: absolute;
+  top: 464px;
+  width: 384px;
+}
+
+.about-us .phone-2 {
+  left: 337px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 561px;
+  width: 384px;
+}
+
+.about-us .rectangle-4472 {
+  height: 748px;
+  left: 679px;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 1376px;
+}
+
+.about-us .group-376 {
+  height: 487px;
+  margin-left: 376px;
+  margin-top: 174px;
+  width: 1669px;
+}
+
+.about-us .overlap-group10 {
+  align-items: center;
+  background-color: var(--gallery);
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-left: 264px;
+  margin-top: 253px;
+  min-height: 490px;
+  width: 1920px;
+}
+
+.about-us .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 73px;
+  min-width: 1796px;
+}
+
+.about-us .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 95px;
+  height: 261px;
+  min-width: 1107px;
+}
+
+.about-us .flex-col-5 {
+  align-items: flex-start;
+  gap: 2px;
+  min-height: 261px;
+  width: 864px;
+}
+
+.about-us .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 187px;
+  min-width: 864px;
+}
+
+.about-us .flex-col-6 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 15px;
+  min-height: 186px;
+  width: 497px;
+}
+
+.about-us .at-ue-campus-we-unde {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 88px;
+  width: 497px;
+}
+
+.about-us .flex-col-7 {
+  align-items: flex-start;
+  margin-left: 74px;
+  min-height: 170px;
+  width: 76px;
+}
+
+.about-us .courses {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 76px;
+}
+
+.about-us .bachelors-masters-dba {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.about-us .apply {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 76px;
+}
+
+.about-us .flex-col-8 {
+  align-items: flex-start;
+  margin-left: 95px;
+  margin-top: 2px;
+  min-height: 170px;
+  width: 122px;
+}
+
+.about-us .programs {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 92px;
+}
+
+.about-us .ppa-walsh-college-diploma {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 19px;
+  min-height: 66px;
+}
+
+.about-us .online-study {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 35px;
+  min-height: 25px;
+  width: 122px;
+}
+
+.about-us .flex-row-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 72px;
+  min-width: 857px;
+}
+
+.about-us .overlap-group21 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.about-us .you-tube {
+  height: 25px;
+  width: 25px;
+}
+
+.about-us .linked-in-circled {
+  height: 50px;
+  margin-left: 10px;
+  width: 50px;
+}
+
+.about-us .overlap-group23 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.about-us .tik-tok {
+  height: 25px;
+  width: 25px;
+}
+
+.about-us .overlap-group22 {
+  align-items: flex-start;
+  background-color: var(--royal-purple);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  min-width: 40px;
+  padding: 7px;
+}
+
+.about-us .twitter-x {
+  height: 25px;
+  width: 25px;
+}
+
+.about-us .instagram-circle {
+  height: 50px;
+  margin-left: 12px;
+  width: 50px;
+}
+
+.about-us .facebook {
+  height: 50px;
+  margin-left: 7px;
+  width: 50px;
+}
+
+.about-us .fees-apply-now {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 247px;
+  min-height: 44px;
+  min-width: 81px;
+}
+
+.about-us .online-degrees-online-lms {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 90px;
+  margin-top: 2px;
+  min-height: 44px;
+}
+
+.about-us .about-us-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  margin-top: 2px;
+  min-height: 196px;
+  width: 148px;
+}
+
+.about-us .about-us-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.about-us .about-us-faq-accredi {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 154px;
+}
+
+.about-us .flex-col-9 {
+  align-items: flex-start;
+  align-self: flex-end;
+  margin-left: 51px;
+  min-height: 259px;
+  width: 272px;
+}
+
+.about-us .contact-us-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.about-us .flex-row-7 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 19px;
+  min-width: 192px;
+}
+
+.about-us .envelope-1 {
+  height: 25px;
+  width: 25px;
+}
+
+.about-us .infouecampuscom-2 {
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 157px;
+}
+
+.about-us .phone-container {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-top: 11px;
+  min-width: 163px;
+}
+
+.about-us .phone-3 {
+  height: 25px;
+  width: 25px;
+}
+
+.about-us .phone-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  min-width: 128px;
+}
+
+.about-us .image-31 {
+  height: 140px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 272px;
+}
+
+.about-us .flex-col-10 {
+  align-items: flex-start;
+  gap: 18px;
+  margin-left: 50px;
+  margin-top: 2px;
+  min-height: 82px;
+  width: 316px;
+}
+
+.about-us .newsletter {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 25px;
+  width: 148px;
+}
+
+.about-us .overlap-group20 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 5px;
+  display: flex;
+  gap: 81px;
+  justify-content: flex-end;
+  min-width: 316px;
+}
+
+.about-us .insert-email {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 126px;
+}
+
+.about-us .overlap-group-2 {
+  align-items: center;
+  background-color: var(--royal-purple);
+  border-radius: 5px;
+  display: flex;
+  gap: 9px;
+  min-width: 95px;
+}
+
+.about-us .rectangle-96 {
+  background-color: var(--royal-purple);
+  height: 39px;
+  width: 9px;
+}
+
+.about-us .sign-up {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.0px;
+  min-height: 22px;
+  width: 60px;
+}
+
+.about-us .overlap-group24 {
+  align-items: flex-start;
+  background-color: var(--alto);
+  display: flex;
+  height: 61px;
+  min-width: 1920px;
+  padding: 19px 666px;
+}
+
+.about-us .copyright-2024-ue-c {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+}
+
+.about-us .flex-col-11 {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-us .infouecampuscom-3 {
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.about-us .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: 1.31px;
+  min-height: 22px;
+}
+
+.about-us .overlap-group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 374px;
+}
+
+.about-us .x1-9d8512e0-removebg-preview {
+  height: 83px;
+  object-fit: cover;
+  width: 180px;
+}
+
+/* Add responsive styles for phones */
+@media (max-width: 768px) {
+  .about-us {
+    width: 100%;
+    overflow: hidden;
+    padding: 0 15px;
+  }
+
+  .about-us .overlap-group14 {
+    flex-direction: column;
+    padding: 15px;
+    text-align: center;
+  }
+
+  .about-us .have-any-questions, .about-us .infouecampuscom, .about-us .phone-1 {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+
+  .about-us .navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .about-us .navbar-link {
+    margin: 5px 10px;
+    font-size: 16px;
+  }
+
+  .about-us .overlap-group19 {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .about-us .flex-row-1, .about-us .flex-row-2 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .about-us .about-us-1 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .about-us .we-empower-learners {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .about-us .unlock-the-power-of {
+    font-size: 20px;
+    width: 100%;
+    line-height: 1.5;
+    margin-top: 20px;
+  }
+
+  .about-us .overlap-group-container {
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .about-us .overlap-group6, .about-us .overlap-group9, .about-us .overlap-group12 {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .about-us .group-container {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .about-us .group-372, .about-us .group-373 {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .about-us .flex-col {
+    padding: 0;
+  }
+
+  .about-us .our-core-values {
+    font-size: 24px;
+    margin: 20px 0;
+    text-align: center;
+  }
+
+  .about-us .overlap-group-container-1 {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .about-us .overlap-group1, .about-us .overlap-group7, .about-us .overlap-group13 {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .about-us .meet-our-team {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .about-us .overlap-group8 {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .about-us .have-any-questions-1 {
+    font-size: 24px;
+  }
+
+  .about-us .visit-our-faq-page-o {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .about-us .contact-us {
+    font-size: 20px;
+  }
+
+  .about-us .flex-row-3 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .about-us .flex-col-9, .about-us .flex-col-10 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .about-us .newsletter {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .about-us .overlap-group20 {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .about-us .copyright-2024-ue-c {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* Add responsive styles for phones */
+@media (max-width: 768px) {
+  .about-us {
+    width: 100%;
+    overflow: hidden;
+    padding: 0 15px;
+  }
+
+  .about-us .overlap-group14 {
+    flex-direction: column;
+    padding: 15px;
+    text-align: center;
+  }
+
+  .about-us .have-any-questions, .about-us .infouecampuscom, .about-us .phone-1 {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+
+  .about-us .navbar {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .about-us .navbar-link {
+    margin: 5px 10px;
+    font-size: 16px;
+  }
+
+  .about-us .overlap-group19 {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .about-us .flex-row-1, .about-us .flex-row-2 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .about-us .about-us-1 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .about-us .we-empower-learners {
+    font-size: 16px;
+    width: 100%;
+  }
+
+  .about-us .unlock-the-power-of {
+    font-size: 20px;
+    width: 100%;
+    line-height: 1.5;
+    margin-top: 20px;
+  }
+
+  .about-us .overlap-group-container {
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .about-us .overlap-group6, .about-us .overlap-group9, .about-us .overlap-group12 {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .about-us .group-container {
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .about-us .group-372, .about-us .group-373 {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .about-us .flex-col {
+    padding: 0;
+  }
+
+  .about-us .our-core-values {
+    font-size: 24px;
+    margin: 20px 0;
+    text-align: center;
+  }
+
+  .about-us .overlap-group-container-1 {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 20px 0;
+  }
+
+  .about-us .overlap-group1, .about-us .overlap-group7, .about-us .overlap-group13 {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  .about-us .meet-our-team {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .about-us .overlap-group8 {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .about-us .have-any-questions-1 {
+    font-size: 24px;
+  }
+
+  .about-us .visit-our-faq-page-o {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .about-us .contact-us {
+    font-size: 20px;
+  }
+
+  .about-us .flex-row-3 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .about-us .flex-col-9, .about-us .flex-col-10 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .about-us .newsletter {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .about-us .overlap-group20 {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .about-us .copyright-2024-ue-c {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* Add responsive styles for laptops */
+@media (min-width: 769px) and (max-width: 1440px) {
+  .about-us {
+    width: 100%;
+    overflow: hidden;
+    padding: 0 30px;
+  }
+
+  .about-us .overlap-group14 {
+    flex-direction: row;
+    padding: 20px;
+    justify-content: space-between;
+  }
+
+  .about-us .navbar {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 15px;
+  }
+
+  .about-us .navbar-link {
+    margin: 0 15px;
+    font-size: 18px;
+  }
+
+  .about-us .about-us-1 {
+    font-size: 60px;
+    line-height: 72px;
+  }
+
+  .about-us .we-empower-learners {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .about-us .unlock-the-power-of {
+    font-size: 28px;
+    width: 100%;
+    line-height: 1.5;
+    margin-top: 30px;
+  }
+
+  .about-us .overlap-group-container {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .about-us .overlap-group6, .about-us .overlap-group9, .about-us .overlap-group12 {
+    width: 30%;
+    margin: 10px;
+  }
+
+  .about-us .group-container {
+    width: 90%;
+    margin: 30px auto;
+  }
+
+  .about-us .group-372, .about-us .group-373 {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .about-us .our-core-values {
+    font-size: 40px;
+    margin: 30px 0;
+    text-align: center;
+  }
+
+  .about-us .overlap-group-container-1 {
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin: 30px 0;
+  }
+
+  .about-us .overlap-group1, .about-us .overlap-group7, .about-us .overlap-group13 {
+    width: 30%;
+    margin: 10px;
+  }
+
+  .about-us .meet-our-team {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .about-us .overlap-group8 {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .about-us .have-any-questions-1 {
+    font-size: 36px;
+  }
+
+  .about-us .visit-our-faq-page-o {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+
+  .about-us .contact-us {
+    font-size: 24px;
+  }
+
+  .about-us .flex-row-3 {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    text-align: left;
+    margin-top: 30px;
+  }
+
+  .about-us .flex-col-9, .about-us .flex-col-10 {
+    width: 45%;
+    text-align: left;
+  }
+
+  .about-us .newsletter {
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .about-us .overlap-group20 {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+  }
+
+  .about-us .copyright-2024-ue-c {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
